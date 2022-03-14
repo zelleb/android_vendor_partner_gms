@@ -1,6 +1,7 @@
 PRODUCT_PACKAGES += \
 	AuroraServices \
 	AuroraStore \
+	BromiteWebView \
 	FDroid \
 	FDroidPrivilegedExtension \
 	FakeStore \
