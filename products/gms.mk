@@ -9,3 +9,5 @@ PRODUCT_PACKAGES += \
 	IchnaeaNlpBackend \
 	NominatimGeocoderBackend \
 	additional_repos.xml
+
+-include vendor/partner_gms/Lawnchair/lawnchair.mk
