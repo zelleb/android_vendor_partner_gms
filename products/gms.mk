@@ -1,5 +1,6 @@
 PRODUCT_PACKAGES += \
 	AuroraServices \
+	AuroraStore \
 	FDroid \
 	FDroidPrivilegedExtension \
 	FakeStore \
