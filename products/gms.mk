@@ -8,4 +8,5 @@ PRODUCT_PACKAGES += \
 	GsfProxy \
 	IchnaeaNlpBackend \
 	NominatimGeocoderBackend \
+	SMSie \
 	additional_repos.xml
